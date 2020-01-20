@@ -26,13 +26,12 @@ En la pantalla del artista, propia de mi aplicación, abajo hay un link que al h
 ## Uso:
 Despues de descargar el repositorio, a traves de la linea de comando ejecutar el siguiente script:
 
-*npm install*
+**npm install**
 
 y luego:
 
+**ng serve** 
 
-*ng serve" 
 o
 
-
-"ng serve -o*
+**ng serve -o**
